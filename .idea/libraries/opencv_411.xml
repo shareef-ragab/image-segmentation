@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="opencv-411">
+    <CLASSES>
+      <root url="jar://E:/APP Windows/openCV/build/java/opencv-411.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://E:/APP Windows/openCV/build/java/x86" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://E:/APP Windows/openCV/build/java/opencv-411.jar!/" />
+    </SOURCES>
+  </library>
+</component>
