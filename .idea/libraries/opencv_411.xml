@@ -5,7 +5,7 @@
     </CLASSES>
     <JAVADOC />
     <NATIVE>
-      <root url="file://E:/APP Windows/openCV/build/java/x86" />
+      <root url="file://E:/APP Windows/openCV/build/java/x64" />
     </NATIVE>
     <SOURCES>
       <root url="jar://E:/APP Windows/openCV/build/java/opencv-411.jar!/" />

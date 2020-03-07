@@ -179,11 +179,11 @@ public class ImageSegController
 					else if (this.dilateErode.isSelected())
 					{
 						// Es. 2.1
-						// frame = this.doBackgroundRemovalFloodFill(frame);
+						frame = this.doBackgroundRemovalFloodFill(frame);
 						// Es. 2.2
-						frame = this.doBackgroundRemovalAbsDiff(frame);
+						//frame = this.doBackgroundRemovalAbsDiff(frame);
 						// Es. 2.3
-						// frame = this.doBackgroundRemoval(frame);
+						 //frame = this.doBackgroundRemoval(frame);
 						
 					}
 					
